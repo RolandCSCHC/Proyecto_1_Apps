@@ -1,0 +1,19 @@
+.trip-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .image-gallery img {
+    max-width: 100%;
+    max-height: 400px;
+    object-fit: contain;
+    margin: 5px;
+  }
+  
